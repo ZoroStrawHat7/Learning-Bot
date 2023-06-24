@@ -1,1 +1,1 @@
-worker: python3 luffu.py
+worker: python3 zoro.py
